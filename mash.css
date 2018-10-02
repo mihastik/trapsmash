@@ -1,0 +1,59 @@
+.head{
+	background-color: #8A1B09;
+	padding: 20px;
+	text-align: center;
+	color: white;
+	size: 100px;
+	font-family: helvetica;
+	font-size: 50px;
+}
+
+h1{
+	text-align: center;
+	font-family: helvetica;
+	font-size: 30px;
+	margin-top: 20px;
+}
+
+h2{
+	text-align: center;
+	font-family: helvetica;
+	font-size: 40px;
+	margin-top: 40px;
+}
+
+h3{
+	width: 50px;
+	text-align: center;
+}
+
+.comparasion{
+	display: grid;
+	grid-template-columns: 45% 10% 45%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.person1{
+	width: 300px;
+	text-align: center;
+	font-family: helvetica;
+	color: skyblue;
+}
+
+.person2{
+	width: 300px;
+	text-align: center;
+	font-family: helvetica;
+	color: skyblue;
+}
+
+#photo1{
+	width: 300px;
+	border: solid 4px gray;
+}
+
+#photo2{
+	width: 300px;
+	border: solid 4px gray;
+}
